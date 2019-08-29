@@ -72,4 +72,4 @@ authbind --deep pm2 start server.js --name "AL-Web-Server"
 # Persist
 eval "$(pm2 startup)"
 pm2 save
-vi
+
